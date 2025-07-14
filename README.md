@@ -56,6 +56,7 @@ Vengo del mundo de la psicología y la música 🎸, y hoy estoy enfocado en el 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/netlify.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Netlify" />
 </p>
+
 ---
 
 ## 🚀 Proyectos destacados
@@ -83,8 +84,14 @@ Aplicación fullstack para gestionar tareas. Usa React en el frontend y SQLite c
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-chacon-t934/)  
-📬 matychacong@gmail.com
+<p align="left">
+  <a href="mailto:matychacong@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/matias-chacon-t934/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="LinkedIn" />
+  </a>
+</p
 
 ---
 
