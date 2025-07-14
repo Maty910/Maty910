@@ -17,36 +17,45 @@ Vengo del mundo de la psicología y la música 🎸, y hoy estoy enfocado en el 
 ## 🛠️ Tecnologías que uso
 
 ### Frontend
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Vite" />
+</p>
 
 ### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Python" />
+</p>
 
 ### Mobile
-![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/expo.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Expo" />
+</p>
 
 ### Testing y QA
-![Robot Framework](https://img.shields.io/badge/-Robot_Framework-000000?style=flat&logo=robotframework&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/robotframework/visual-identity/main/logo/robot-framework.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Robot Framework" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Selenium" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Postman" />
+</p>
 
 ### Herramientas
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="ESLint" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/netlify.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Netlify" />
+</p>
 ---
 
 ## 🚀 Proyectos destacados
@@ -79,4 +88,4 @@ Aplicación fullstack para gestionar tareas. Usa React en el frontend y SQLite c
 
 ---
 
-Gracias por pasar por mi perfil 🙌 Siempre estoy abierto a nuevos desafíos y oportunidades.
+Gracias por pasar por mi perfil. Siempre estoy abierto a nuevos desafíos y oportunidades.
