@@ -14,6 +14,10 @@ Vengo del mundo de la psicología y la música 🎸, y hoy estoy enfocado en el 
 - ⚙️ Actualmente desarrollando dos portfolios para clientes utilizando React.
 - 🎯 En proceso de mejorar mis habilidades con React Native y testing automatizado
 
+## Metas en Web3
+- Aprender sobre el desarrollo en Ethereum y smart contracts
+- Comprender buenas prácticas de seguridad en el ecosistema
+- Participar en proyectos colaborativos y contribuir al crecimiento de Web3
 ---
 
 ## 🛠️ Tecnologías que uso
