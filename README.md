@@ -2,7 +2,7 @@
 
 ## Hola, soy Matías 👨‍💻
 
-Desarrollador Fullstack JR | React · Node.js · MongoDB · SQLite
+#### Desarrollador Fullstack JR | React · Node.js 
 
 ---
 
