@@ -12,12 +12,8 @@ Vengo del mundo de la psicología y la música 🎸, y hoy estoy enfocado en el 
 
 - 📚 Estudiante autodidacta de programación (cursos de Full Stack, React y Node.js)
 - ⚙️ Actualmente desarrollando dos portfolios para clientes utilizando React.
-- 🎯 En proceso de mejorar mis habilidades con React Native y testing automatizado
+- 🎯 En proceso de mejorar mis habilidades con React Native y testing
 
-## Metas en Web3
-- Aprender sobre el desarrollo en Ethereum y smart contracts
-- Comprender buenas prácticas de seguridad en el ecosistema
-- Participar en proyectos colaborativos y contribuir al crecimiento de Web3
 ---
 
 ## 🛠️ Tecnologías que uso
@@ -65,19 +61,19 @@ Vengo del mundo de la psicología y la música 🎸, y hoy estoy enfocado en el 
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
-### 🎨 [Portfolio director de fotografía (React + Vite)](https://github.com/Maty910/Portafolio-Marra)  
+### [Portfolio director de fotografía (React + Vite)](https://github.com/Maty910/Portafolio-Marra)  
 Uno de mis portfolios en desarrollo, hecho con Vite y React. Representa mi estilo como desarrollador y está pensado para ser claro, rápido y moderno.  
 🌐 _Deploy:_ [portfolio director de fotografía](https://joaquinmarraccini.netlify.app/)_
 
-### 📋 [TaskList App](https://github.com/Maty910/tasklist)  
+### [TaskList App](https://github.com/Maty910/tasklist)  
 Aplicación fullstack para gestionar tareas. Usa React en el frontend y SQLite con Node.js en el backend. Manejo de estado con hooks y persistencia de datos en archivo local.  
 🌐 _Deploy:_ [tasklist.netlify.app](https://tasklistmaty.netlify.app/)
 
 ---
 
-## 🌱 En proceso de aprendizaje
+## En proceso de aprendizaje
 
 - 🧪 Testing con Selenium y Robot Framework
 - 📱  React Native
@@ -86,9 +82,14 @@ Aplicación fullstack para gestionar tareas. Usa React en el frontend y SQLite c
 - 🧠 UX/UI aplicado a desarrollo real
 - 🛠️ Organización y despliegue profesional de proyectos
 
+## Metas en Web3
+- Aprender sobre el desarrollo en Ethereum y smart contracts
+- Comprender buenas prácticas de seguridad en el ecosistema
+- Participar en proyectos colaborativos y contribuir al crecimiento de Web3
+
 ---
 
-## 📫 Contacto
+## Contacto
 
 <p align="left">
   <a href="mailto:matychacong@gmail.com">
