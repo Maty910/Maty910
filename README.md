@@ -53,11 +53,11 @@ Vengo del mundo de la psicología y la música 🎸, y hoy estoy enfocado en el 
 ### Herramientas
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/docker.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="ESLint" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/netlify.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Netlify" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/docker-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Docker" />
 </p>
 
 ---
