@@ -1,106 +1,79 @@
-# Bienvenido/a
+# ¡Buenas! Soy Matías 👨‍💻
 
-## Hola, soy Matías 👨‍💻
-
-#### Desarrollador Fullstack JR | React · Node.js 
+#### Web Developer | React · Node.js · TypeScript
 
 ---
 
-## Sobre mí
+## 🧉 Un poco sobre mí
 
-Vengo del mundo de la psicología y la música 🎸, y hoy estoy enfocado en el desarrollo web. Me apasiona construir aplicaciones útiles y seguir aprendiendo. Busco crecer como profesional en equipos donde se valore la prolijidad, el aprendizaje y el trabajo colaborativo.
+Vengo del mundo de la psicología y la música 🎸, una mezcla rara que me dio mucha creatividad y capacidad de análisis. Hoy transformé eso en código y trabajo formalmente como **Web Developer**.
 
-- 📚 Estudiante autodidacta de programación (cursos de Full Stack, React y Node.js)
-- ⚙️ Actualmente desarrollando dos portfolios para clientes utilizando React.
-- 🎯 En proceso de mejorar mis habilidades con React Native y testing
+Me copa construir aplicaciones que no solo funcionen, sino que estén bien hechas desde las bases. Soy fan de la prolijidad, el **Clean Architecture** y el **TDD**. Básicamente, me gusta dormir tranquilo sabiendo que el código es escalable y testeable.
+
+- 💼 **Actualmente:** Trabajando como Web Developer y sumando experiencia en entornos profesionales.
+- 🔭 **En qué ando:** Perfeccionando mi workflow con **Docker**, **CI/CD** y aprendiendo **Figma** para entender mejor al equipo de diseño.
+- 🎲 **Dato de color:** Si no estoy codeando, seguro estoy jugando al *The Binding of Isaac* o algún juego de mesa de estrategia complejo.
 
 ---
 
-## 🛠️ Tecnologías que uso
+## 🛠️ Mi Stack Tecnológico
 
-### Frontend
+Ya no solo "uso" herramientas, sino que aplico buenas prácticas.
+
+### 💻 Core & Backend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Vite" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-### Backend
+### ⚙️ Herramientas & DevOps
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-### Mobile
+### 🧪 Testing & Calidad
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="React Native" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/expo.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Expo" />
-</p>
-
-### Testing y QA
-<p align="left">
-  <img src="https://raw.githubusercontent.com/robotframework/visual-identity/main/logo/robot-framework.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Robot Framework" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Selenium" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Postman" />
-</p>
-
-### Herramientas
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/docker.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="ESLint" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/netlify.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Robot_Framework-00C0B5?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Robot Framework" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-black?style=for-the-badge&logoColor=white" alt="Clean Arch" />
 </p>
 
 ---
 
-## Proyectos destacados
+## 🚀 Proyectos Destacados
 
-### [Portfolio director de fotografía (React + Vite)](https://github.com/Maty910/Portafolio-Marra)  
-Uno de mis portfolios en desarrollo, hecho con Vite y React. Representa mi estilo como desarrollador y está pensado para ser claro, rápido y moderno.  
-🌐 _Deploy:_ [portfolio director de fotografía](https://joaquinmarraccini.netlify.app/)_
+### 📸 [Portfolio Director de Fotografía](https://github.com/Maty910/Portafolio-Marra)
+*Stack: React + Vite*
+Un diseño minimalista y performante. Acá el foco estuvo en la experiencia de usuario y la velocidad de carga.
+🌐 [Ver deploy](https://joaquinmarraccini.netlify.app/)
 
-### [TaskList App](https://github.com/Maty910/tasklist)  
-Aplicación fullstack para gestionar tareas. Usa React en el frontend y SQLite con Node.js en el backend. Manejo de estado con hooks y persistencia de datos en archivo local.  
-🌐 _Deploy:_ [tasklist.netlify.app](https://tasklistmaty.netlify.app/)
-
----
-
-## En proceso de aprendizaje
-
-- 🧪 Testing con Selenium y Robot Framework
-- 📱  React Native
-- ⚛  TypeScript
-- 🐍 Python
-- 🧠 UX/UI aplicado a desarrollo real
-- 🛠️ Organización y despliegue profesional de proyectos
-
-## Metas en Web3
-- Aprender sobre el desarrollo en Ethereum y smart contracts
-- Comprender buenas prácticas de seguridad en el ecosistema
-- Participar en proyectos colaborativos y contribuir al crecimiento de Web3
+### ✅ [TaskList App (Clean Code)](https://github.com/Maty910/tasklist)
+*Stack: React + Node.js + SQLite*
+Más que una lista de tareas, es una práctica de estructura fullstack, manejo de estados y persistencia de datos local.
+🌐 [Ver deploy](https://tasklistmaty.netlify.app/)
 
 ---
 
-## Contacto
+## 📫 Contactame
+
+Siempre abierto a charlar de código, música o proyectos copados.
 
 <p align="left">
   <a href="mailto:matychacong@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/matias-chacon-t934/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" style="background-color:#2D2D2D; border-radius:10px; padding:5px;" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p
+</p>
 
 ---
-
-Gracias por pasar por mi perfil. Siempre estoy abierto a nuevos desafíos y oportunidades.
+<p align="center">
+  <i>Gracias por pasar. "Code clean, dream big."</i> 🚀
+</p>
