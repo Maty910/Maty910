@@ -1,4 +1,4 @@
-# ¡Buenas! Soy Matías 👨‍💻
+# ¡Buenas! Soy Matías
 
 #### Web Developer | React · Node.js · TypeScript
 
@@ -10,17 +10,17 @@ Vengo del mundo de la psicología y la música 🎸, una mezcla rara que me dio 
 
 Me copa construir aplicaciones que no solo funcionen, sino que estén bien hechas desde las bases. Soy fan de la prolijidad, el **Clean Architecture** y el **TDD**. Básicamente, me gusta dormir tranquilo sabiendo que el código es escalable y testeable.
 
-- 💼 **Actualmente:** Trabajando como Web Developer y sumando experiencia en entornos profesionales.
-- 🔭 **En qué ando:** Perfeccionando mi workflow con **Docker**, **CI/CD** y aprendiendo **Figma** para entender mejor al equipo de diseño.
-- 🎲 **Dato de color:** Si no estoy codeando, seguro estoy jugando al *The Binding of Isaac* o algún juego de mesa de estrategia complejo.
+-  **Actualmente:** Trabajando como Web Developer y sumando experiencia en entornos profesionales.
+-  **En qué ando:** Perfeccionando mi workflow con **Docker**, **CI/CD** y aprendiendo **Figma** para entender mejor al equipo de diseño.
+-  **Dato de color:** Si no estoy codeando, seguro estoy jugando al *The Binding of Isaac* o algún juego de mesa de estrategia complejo.
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
+##  Mi Stack Tecnológico
 
 Ya no solo "uso" herramientas, sino que aplico buenas prácticas.
 
-### 💻 Core & Backend
+###  Core & Backend
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -29,7 +29,7 @@ Ya no solo "uso" herramientas, sino que aplico buenas prácticas.
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-### ⚙️ Herramientas & DevOps
+###  Herramientas & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -37,26 +37,31 @@ Ya no solo "uso" herramientas, sino que aplico buenas prácticas.
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-### 🧪 Testing & Calidad
+###  Testing & Calidad
 <p align="left">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/Robot_Framework-00C0B5?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Robot Framework" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/TDD-Test_Driven_Development-green?style=for-the-badge" alt="TDD" />
   <img src="https://img.shields.io/badge/Clean_Architecture-black?style=for-the-badge&logoColor=white" alt="Clean Arch" />
 </p>
 
 ---
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
 ### 📸 [Portfolio Director de Fotografía](https://github.com/Maty910/Portafolio-Marra)
 *Stack: React + Vite*
-Un diseño minimalista y performante. Acá el foco estuvo en la experiencia de usuario y la velocidad de carga.
+Un portfolio minimalista enfocado en la estética visual. Desarrollado con Vite para máxima performance y una experiencia de usuario fluida.
 🌐 [Ver deploy](https://joaquinmarraccini.netlify.app/)
 
-### ✅ [TaskList App (Clean Code)](https://github.com/Maty910/tasklist)
-*Stack: React + Node.js + SQLite*
-Más que una lista de tareas, es una práctica de estructura fullstack, manejo de estados y persistencia de datos local.
-🌐 [Ver deploy](https://tasklistmaty.netlify.app/)
+### 🏨 [Hotel Now](https://github.com/Maty910/hotel-now)
+*Stack: Docker + TypeScript + DDD*
+Sistema de gestión de reservas de habitaciones. Enfocado en la lógica de negocio compleja, aplicando **Domain-Driven Design (DDD)** y arquitectura hexagonal. Totalmente containerizado con Docker para un despliegue consistente.
+🌐 [Ver deploy](https://hotel-now-poso.onrender.com/)
+
+### ❄️ [SC Refrigeración](https://github.com/Maty910/sc-refrigeracion)
+*Stack: React + Vite*
+Landing page profesional desarrollada para un cliente real del rubro técnico. Diseño responsive, optimizado para carga rápida y SEO.
+🌐 [Ver deploy](https://sachitoref.netlify.app/)
 
 ---
 
