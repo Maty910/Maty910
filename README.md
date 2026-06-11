@@ -61,7 +61,7 @@ Sistema de gestión de reservas de habitaciones. Enfocado en la lógica de negoc
 ### ❄️ [SC Refrigeración](https://github.com/Maty910/sc-refrigeracion)
 *Stack: React + Vite*
 Landing page profesional desarrollada para un cliente real del rubro técnico. Diseño responsive, optimizado para carga rápida y SEO.
-🌐 [Ver deploy](https://sachitoref.netlify.app/)
+🌐 [Ver deploy](https://screfrigeracion.com/)
 
 ---
 
@@ -70,7 +70,7 @@ Landing page profesional desarrollada para un cliente real del rubro técnico. D
 Siempre abierto a charlar de código, música o proyectos copados.
 
 <p align="left">
-  <a href="mailto:matychacong@gmail.com">
+  <a href="mailto:contact@mchacon.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/matias-chacon-t934/" target="_blank">
