@@ -1,18 +1,12 @@
 <div align="center">
   <br />
-  <font size="6" color="#8B5CF6"><b>¡Buenas! Soy Matías 🧉</b></font>
+   <font size="10" color="#8B5CF6"><b>¡Buenas! Soy Matías 🧉</b></font>
   <br />
   <font size="4">Junior Fullstack Web Developer | TypeScript · React · Node.js · Python</font>
   <br />
   <i>"Code clean, dream big."</i>
-  <br /><br />
 </div>
-
 <br />
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Maty910/Maty910/output/github-contribution-grid-snake-dark.svg" alt="Animación de contribuciones de GitHub" />
-</div>
-
 <div align="center">
   <a href="https://mchacon.dev">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -24,8 +18,9 @@
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=8B5CF6&logoWidth=20" alt="Email" />
   </a>
 </div>
-
-<br />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Maty910/Maty910/output/github-contribution-grid-snake-dark.svg" alt="Animación de contribuciones de GitHub" />
+</div>
 
 ## Un poco sobre mí
 
