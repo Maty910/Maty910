@@ -26,7 +26,7 @@
 
 Vengo del mundo de la psicología y la música, una mezcla rara que me dio mucha creatividad y capacidad de análisis. Hoy transformé eso en código y trabajo formalmente como **Junior Fullstack Web Developer**. 
 
-Me copa construir aplicaciones que no solo funcionen, sino que estén bien hechas desde las bases. Soy un fiel defensor de la prolijidad, el **Clean Code**, **Clean Architecture** y el **TDD**. Básicamente, me gusta dormir tranquilo sabiendo que la lógica es sólida, que los datos están bien validados y que el código es testeable.
+Me copa construir aplicaciones que no solo funcionen, sino que estén bien hechas desde las bases. Soy un fiel defensor de la prolijidad, el **Clean Code**, **Clean Architecture** y el **TDD**. Básicamente, me gusta estar tranquilo sabiendo que la lógica es sólida, que los datos están bien validados y que el código es testeable.
 
 - **Actualmente:** Trabajando como desarrollador en [Mentelem](https://mentelem.com/), metiéndole mucho foco a la accesibilidad visual, sistemas de diseño y legibilidad en las interfaces.
 - **Mi entorno:** Team Linux (Ubuntu). Codeo en VS Code apoyado por OpenCode, containerizo con **Docker** y organizo mi vida entera en Obsidian.
